@@ -1,0 +1,28 @@
+body {
+    background: honeydew;
+    text-align: center;
+}
+
+table {
+    margin: auto auto;
+    background-color: rgb(173, 143, 158);
+    width: 30%;
+    height: 50px;
+    text-align: center;
+}
+
+td {
+    height: 35%;
+    width: 35%;
+    padding: 10px 10px;
+    font-size: 100px;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+button {
+    margin: 20px auto;
+    padding: 10px 10px;
+    border-radius: 50px;
+    font-size: 30px;
+}
